@@ -4,7 +4,7 @@ Library to work with Xiaomi MiBand 3
 Base lib provided by Leo Soares
 Additional debug & fixes was made by Volodymyr Shymanskyy
 
-# <a href="https://www.youtube.com/watch?v=9TL2qmBpVms" target="blank">DEMO</a>
+# <a href="https://www.youtube.com/watch?v=9TL2qmBpVms" target="_blank">DEMO</a>
 
 # Run
 
