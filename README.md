@@ -7,8 +7,6 @@ Additional debug & fixes was made by Volodymyr Shymanskyy
 # <a href="https://www.youtube.com/watch?v=9TL2qmBpVms" target="_blank">DEMO</a>
 
 
-<a href="https://www.thesitewizard.com/" target="_blank">thesitewizard.com</a>
-
 # Run
 
 ### Install dependencies
