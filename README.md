@@ -5,7 +5,7 @@ Base lib provided by Leo Soares
 Additional debug & fixes was made by Volodymyr Shymanskyy
 
 
-# [DEMO](https://www.youtube.com/watch?v=9TL2qmBpVms)
+# [DEMO](https://www.youtube.com/watch?v=9TL2qmBpVms){:target="_blank"}
 
 
 # Run
