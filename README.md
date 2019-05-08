@@ -25,3 +25,20 @@ Run this to auth device
 If you having problems(BLE can glitch sometimes)
 
 ```sudo hciconfig hci0 reset```
+
+
+If you got the followin error
+
+```fatal error: glib.h: No such file or directory```
+
+then try this 
+
+```sudo apt-get install libglib2.0-dev```
+
+If you got the following error
+
+```ImportError: No module named 'crc16'```
+
+then try this 
+
+```python -m pip install crc16```
