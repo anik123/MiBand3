@@ -15,7 +15,7 @@ Additional debug & fixes was made by Volodymyr Shymanskyy
 
 Turn on your Bluetooth
 
-Unpair you MiBand2 from current mobile apps
+Unpair you MiBand3 from current mobile apps
 
 Find out your MiBand3 MAC address
 
